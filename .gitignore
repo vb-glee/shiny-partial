@@ -1,0 +1,12 @@
+__pycache__
+output/*/
+*.MOV
+*.mp4
+**/*.png
+**/*.exr
+colmap/*
+*.json
+*.mtl
+*.png
+*.ply
+*.tiff
